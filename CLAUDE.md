@@ -83,6 +83,12 @@ The goal is to help the student become an independent researcher. Every interact
 ## Project Overview
 This is a research project exploring adversarial LLM training using reinforcement learning for automated jailbreak testing. The project uses RL algorithms (GRPO, PPO, DPO) to fine-tune language models as adversarial agents that can systematically discover vulnerabilities in other LLMs.
 
+### Repository Information
+- **GitHub Repository**: https://github.com/rakshithsajjan/learning-to-jailbreak
+- **Repository Name**: `learning-to-jailbreak`
+- **License**: MIT with research use notice
+- **Purpose**: Defensive security research for AI safety improvement
+
 ## Key Research Context
 - **Student Level**: Beginner in ML/RL (follow mentoring guidelines above)
 - **Approach**: Start simple with rule-based attacks, then progress to RL-based methods
@@ -231,9 +237,13 @@ Track daily work:
 
 ### ✅ Completed
 - [x] Project structure cleanup and organization
-- [x] Comprehensive paper summaries for Tier S papers
+- [x] Comprehensive paper summaries for Tier S papers (GCG, PAIR, Szegedy, Goodfellow)
 - [x] Beginner-friendly documentation setup
 - [x] Installation and verification scripts
+- [x] GitHub repository creation and setup
+- [x] Initial commit with comprehensive project infrastructure (24 files, 3,356+ lines)
+- [x] MIT license with research use notice
+- [x] Professional README and documentation
 
 ### 🔄 In Progress
 - [ ] Complete paper summaries for Tier A and B papers
@@ -245,5 +255,12 @@ Track daily work:
 - [ ] Design RL framework architecture
 - [ ] Create evaluation metrics
 - [ ] Begin initial experiments
+
+### 🌐 Repository Status
+- **Live Repository**: https://github.com/rakshithsajjan/learning-to-jailbreak
+- **Initial Commit**: c1e8a98 - Complete project infrastructure
+- **License Commit**: a49a37e - MIT license with research guidelines
+- **Total Files**: 24 files with comprehensive documentation
+- **Status**: Ready for development and collaboration
 
 Remember: This is defensive security research. Every experiment should contribute to making AI systems safer and more robust.
